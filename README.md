@@ -16,6 +16,12 @@ If no location metadata for an image is available, one way to infer the location
 
 In this project, we will take the first steps towards addressing this problem by building a CNN-powered app to automatically predict the location of the image based on any landmarks depicted in the image. At the end of this project, the app will accept any user-supplied image as input and suggest the top k most relevant landmarks from 50 possible landmarks from across the world.
 
+## Project Files
+In the first notebook `cnn_from_scratch.ipynb` I explored the use of CNNs in training an image classification model by creating a CNN from scratch.  
+the second notebook `transfer_learning.ipynb` achieves the same thing as the first, except that in the case I implored the use of a pretrained model with the help of transfer learning technique to achieve a higher prediction accuracy.
+
+### Here is an image of the model performance (using a CNN I built from scratch):
+![model-performance](./static_images/download.png)
 
 ## Project Instructions
 
