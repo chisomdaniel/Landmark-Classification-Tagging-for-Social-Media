@@ -23,7 +23,7 @@ the second notebook `transfer_learning.ipynb` achieves the same thing as the fir
 ### Here is an image of the model performance (using a CNN I built from scratch):
 ![model-performance](./static_images/download.png)
 ![performance-value](./static_images/accuracy.png)
-__a test accuracy of 54% is quite impressive considering the small size of the CNN__
+_a test accuracy of 54% is quite impressive considering the small size of the CNN_
 
 ## Project Instructions
 
